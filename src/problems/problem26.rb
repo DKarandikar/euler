@@ -31,4 +31,6 @@ def main
     puts "Answer is: #{max_number}"
 end
 
-main()
+if __FILE__ == $0
+    main()
+end
