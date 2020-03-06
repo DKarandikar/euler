@@ -1,5 +1,5 @@
 require "test/unit"
-require_relative "problem26"
+require_relative "../../src/problems/problem26"
 
 
 class TestRepeatingCycle < Test::Unit::TestCase
